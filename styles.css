@@ -1,0 +1,23 @@
+body{
+  background-image: url(black.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.spg{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 100px;
+  color: white;
+}
+.generate{
+  font-family: 'Ubuntu', sans-serif;
+  padding: 3% 18%;
+  color: white;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  letter-spacing: 3px;
+}
+.anim{
+  white-space: normal;
+  width: 15%;
+}
